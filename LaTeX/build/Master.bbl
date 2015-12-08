@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{PANDA_detektor}
+PANDA Collaboration.
+\newblock The panda detector - overview, 2015.
+
+\bibitem{PANDA_physics_overview}
+PANDA Collaboration.
+\newblock Panda physics - overview, 2015.
+
+\bibitem{FAIR_was_ist_fair}
+FAIR GmbH.
+\newblock Was ist fair?, 2015.
+
+\bibitem{FAIR_was_passiert_bei_fair}
+FAIR GmbH.
+\newblock Was passiert bei fair?, 2015.
+
+\bibitem{MasterJette}
+Jette Schumann.
+\newblock Beschleunigung eines spurfindealgorithmus für den straw tube tracker
+  des panda-detektors durch parallelisierung mit cuda c.
+\newblock Master's thesis, FH Aachen, Forschungsyentrum Jülich, IKP-1, 2015.
+
+\bibitem{Root_Linux}
+Fons~Rademakers und Rene~Brun.
+\newblock Root: An object-oriented data analysis framework.
+\newblock {\em Linux Journal}, 1998.
+
+\end{thebibliography}

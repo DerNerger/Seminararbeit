@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Master.aux
+A level-1 auxiliary file: Einleitung.aux
+A level-1 auxiliary file: FAIR.aux
+A level-1 auxiliary file: Root.aux
+A level-1 auxiliary file: Algorithmus.aux
+The style file: plain.bst
+Database file #1: Literatur.bib
+Warning--entry type for "PANDA_detektor" isn't style-file defined
+--line 5 of file Literatur.bib
+Warning--entry type for "PANDA_physics_overview" isn't style-file defined
+--line 15 of file Literatur.bib
+Warning--entry type for "FAIR_was_ist_fair" isn't style-file defined
+--line 25 of file Literatur.bib
+Warning--entry type for "FAIR_was_passiert_bei_fair" isn't style-file defined
+--line 37 of file Literatur.bib
+You've used 6 entries,
+            2118 wiz_defined-function locations,
+            529 strings with 4640 characters,
+and the built_in function-call counts, 1212 in all, are:
+= -- 110
+> -- 42
+< -- 0
++ -- 19
+- -- 12
+* -- 42
+:= -- 217
+add.period$ -- 14
+call.type$ -- 6
+change.case$ -- 24
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 46
+empty$ -- 120
+format.name$ -- 12
+if$ -- 253
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 1
+newline$ -- 29
+num.names$ -- 12
+pop$ -- 42
+preamble$ -- 1
+purify$ -- 18
+quote$ -- 0
+skip$ -- 45
+stack$ -- 0
+substring$ -- 31
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 0
+while$ -- 12
+width$ -- 7
+write$ -- 56
+(There were 4 warnings)
